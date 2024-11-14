@@ -13,4 +13,10 @@ downloadButton.addEventListener('click', () => {
     githubbtn.addEventListener('click', () => {
        window.open(githubUrl,'_blank');
     })
+
+   const pro = document.getElementById('pro'){
+      document.getElementById('iframe-container').style.display = 'block';
+    }
+    
+    
 })

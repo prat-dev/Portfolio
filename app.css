@@ -161,3 +161,6 @@
   color: white;
   text-decoration: none;
  }
+ .firstSection{
+  flex-direction: column-reverse;
+ }
